@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="74cm" height="36cm" viewBox="132 70 1480 702" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g>
+    <rect style="fill: #ffffff" x="132" y="165" width="226.2" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="132" y="165" width="226.2" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="245.1" y="179">Students</text>
+    <rect style="fill: #ffffff" x="132" y="183" width="226.2" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="132" y="183" width="226.2" height="100"/>
+    <polygon style="fill: #000000" points="135,193 137,196 139,193 137,190 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="141" y="199">student_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="258.8" y="199">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="141" y1="200.6" x2="281.9" y2="200.6"/>
+    <ellipse style="fill: #000000" cx="137" cy="209" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="141" y="215">student_number</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="258.8" y="215">varchar(5)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="137" cy="225" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="141" y="231">first_name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="258.8" y="231">varchar(50)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="137" cy="241" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="141" y="247">last_name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="258.8" y="247">varchar(50)</text>
+    <ellipse style="fill: #000000" cx="137" cy="257" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="141" y="263">email</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="258.8" y="263">varchar(255)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="137" cy="273" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="141" y="279">major_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="258.8" y="279">int</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="527" y="70" width="203.1" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="527" y="70" width="203.1" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="628.55" y="84">Majors</text>
+    <rect style="fill: #ffffff" x="527" y="88" width="203.1" height="36"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="527" y="88" width="203.1" height="36"/>
+    <polygon style="fill: #000000" points="530,98 532,101 534,98 532,95 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="536" y="104">major_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="630.7" y="104">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="536" y1="105.6" x2="653.8" y2="105.6"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="532" cy="114" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="536" y="120">major_title</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="630.7" y="120">varchar(100)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="527,98 442.6,98 442.6,241 367.936,241 "/>
+    <polygon style="fill: #000000" points="360.436,241 370.436,236 367.936,241 370.436,246 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="360.436,241 370.436,236 367.936,241 370.436,246 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="523" y="94">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="362.2" y="237">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="919" y="147" width="218.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="919" y="147" width="218.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1028.25" y="161">Courses</text>
+    <rect style="fill: #ffffff" x="919" y="165" width="218.5" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="919" y="165" width="218.5" height="52"/>
+    <polygon style="fill: #000000" points="922,175 924,178 926,175 924,172 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="928" y="181">course_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1038.1" y="181">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="928" y1="182.6" x2="1061.2" y2="182.6"/>
+    <ellipse style="fill: #000000" cx="924" cy="191" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="928" y="197">course_number</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1038.1" y="197">varchar(10)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="924" cy="207" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="928" y="213">course_title</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1038.1" y="213">varchar(100)</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="660" y="405" width="218.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="660" y="405" width="218.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="769.25" y="419">Sections</text>
+    <rect style="fill: #ffffff" x="660" y="423" width="218.5" height="100"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="660" y="423" width="218.5" height="100"/>
+    <polygon style="fill: #000000" points="663,433 665,436 667,433 665,430 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="669" y="439">section_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="786.8" y="439">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="669" y1="440.6" x2="809.9" y2="440.6"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="665" cy="449" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="669" y="455">section_number</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="786.8" y="455">varchar(10)</text>
+    <ellipse style="fill: #000000" cx="665" cy="465" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="669" y="471">course_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="786.8" y="471">int</text>
+    <ellipse style="fill: #000000" cx="665" cy="481" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="669" y="487">faculty_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="786.8" y="487">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="665" cy="497" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="669" y="503">start_date</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="786.8" y="503">date</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="665" cy="513" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="669" y="519">end_date</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="786.8" y="519">date</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1224" y="302" width="172.3" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1224" y="302" width="172.3" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1310.15" y="316">MeetingTimes</text>
+    <rect style="fill: #ffffff" x="1224" y="320" width="172.3" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1224" y="320" width="172.3" height="84"/>
+    <polygon style="fill: #000000" points="1227,330 1229,333 1231,330 1229,327 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1233" y="336">meeting_time_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1358.5" y="336">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="1233" y1="337.6" x2="1381.6" y2="337.6"/>
+    <ellipse style="fill: #000000" cx="1229" cy="346" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1233" y="352">section_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1358.5" y="352">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="1229" cy="362" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1233" y="368">start_time</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1358.5" y="368">time</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="1229" cy="378" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1233" y="384">end_time</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1358.5" y="384">time</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="1229" cy="394" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1233" y="400">location_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1358.5" y="400">int</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1137.5,175 1157.5,175 1157.5,328 640,328 640,481 650.264,481 "/>
+    <polygon style="fill: #000000" points="657.764,481 647.764,486 650.264,481 647.764,476 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="657.764,481 647.764,486 650.264,481 647.764,476 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1141.5" y="171">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="656" y="477">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="878.5,465 1051.25,465 1051.25,362 1214.26,362 "/>
+    <polygon style="fill: #000000" points="1221.76,362 1211.76,367 1214.26,362 1211.76,357 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1221.76,362 1211.76,367 1214.26,362 1211.76,357 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="882.5" y="461">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1220" y="358">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="821" y="670" width="226.2" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="821" y="670" width="226.2" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="934.1" y="684">Faculty</text>
+    <rect style="fill: #ffffff" x="821" y="688" width="226.2" height="84"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="821" y="688" width="226.2" height="84"/>
+    <polygon style="fill: #000000" points="824,698 826,701 828,698 826,695 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="830" y="704">faculty_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="947.8" y="704">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="830" y1="705.6" x2="970.9" y2="705.6"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="826" cy="714" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="830" y="720">faculty_number</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="947.8" y="720">varchar(10)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="826" cy="730" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="830" y="736">first_name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="947.8" y="736">varchar(100)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="826" cy="746" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="830" y="752">last_name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="947.8" y="752">varchar(100)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="826" cy="762" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="830" y="768">faculty_type</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="947.8" y="768">int</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="769.25,523 769.25,596.5 934.1,596.5 934.1,660.264 "/>
+    <polygon style="fill: #000000" points="934.1,667.764 929.1,657.764 934.1,660.264 939.1,657.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="934.1,667.764 929.1,657.764 934.1,660.264 939.1,657.764 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="773.25" y="535">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="938.1" y="666">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="270" y="609" width="249.3" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="270" y="609" width="249.3" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="394.65" y="623">StudentSectionsMap</text>
+    <rect style="fill: #ffffff" x="270" y="627" width="249.3" height="68"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="270" y="627" width="249.3" height="68"/>
+    <polygon style="fill: #000000" points="273,637 275,640 277,637 275,634 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="279" y="643">StudentSectionMapId</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="279" y1="644.6" x2="435.3" y2="644.6"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="275" cy="653" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="279" y="659">student_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="435.3" y="659">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="275" cy="669" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="279" y="675">section_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="435.3" y="675">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="275" cy="685" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="279" y="691">final_grade</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="435.3" y="691">varchar(2)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="188.55,283 188.55,637 260.264,637 "/>
+    <polygon style="fill: #000000" points="267.764,637 257.764,642 260.264,637 257.764,632 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="267.764,637 257.764,642 260.264,637 257.764,632 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="192.55" y="295">n</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="266" y="633">n</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="456.975,609 456.975,433 650.264,433 "/>
+    <polygon style="fill: #000000" points="657.764,433 647.764,438 650.264,433 647.764,428 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="657.764,433 647.764,438 650.264,433 647.764,428 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="460.975" y="605">n</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="656" y="429">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1277" y="116" width="226.2" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1277" y="116" width="226.2" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1390.1" y="130">Prerequisites</text>
+    <rect style="fill: #ffffff" x="1277" y="134" width="226.2" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1277" y="134" width="226.2" height="52"/>
+    <polygon style="fill: #000000" points="1280,144 1282,147 1284,144 1282,141 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1286" y="150">prerequisite_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1473.1" y="150">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="1286" y1="151.6" x2="1496.2" y2="151.6"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="1282" cy="160" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1286" y="166">course_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1473.1" y="166">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="1282" cy="176" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1286" y="182">prerequisites_course_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1473.1" y="182">int</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1137.5,156 1207.25,156 1207.25,160 1267.26,160 "/>
+    <polygon style="fill: #000000" points="1274.76,160 1264.76,165 1267.26,160 1264.76,155 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1274.76,160 1264.76,165 1267.26,160 1264.76,155 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1141.5" y="152">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1273" y="156">n</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1146" y="522" width="133.8" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1146" y="522" width="133.8" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1212.9" y="536">Locations</text>
+    <rect style="fill: #ffffff" x="1146" y="540" width="133.8" height="52"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1146" y="540" width="133.8" height="52"/>
+    <polygon style="fill: #000000" points="1149,550 1151,553 1153,550 1151,547 "/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1155" y="556">location_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1249.7" y="556">int</text>
+    <line style="fill: none; fill-opacity:0; stroke-width: 1; stroke: #000000" x1="1155" y1="557.6" x2="1272.8" y2="557.6"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="1151" cy="566" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1155" y="572">building_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1249.7" y="572">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="1151" cy="582" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1155" y="588">room_number</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1249.7" y="588">int</text>
+  </g>
+  <g>
+    <rect style="fill: #ffffff" x="1393" y="591" width="218.5" height="18"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1393" y="591" width="218.5" height="18"/>
+    <text font-size="11.2" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1502.25" y="605">Buildings</text>
+    <rect style="fill: #ffffff" x="1393" y="609" width="218.5" height="116"/>
+    <rect style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" x="1393" y="609" width="218.5" height="116"/>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="1398" cy="619" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1402" y="625">building_id</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1512.1" y="625">int</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="1398" cy="635" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1402" y="641">building_name</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1512.1" y="641">varchar(200)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="1398" cy="651" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1402" y="657">address1</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1512.1" y="657">varchar(255)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="1398" cy="667" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1402" y="673">address2</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1512.1" y="673">varchar(255)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="1398" cy="683" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1402" y="689">city</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1512.1" y="689">varchar(255)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="1398" cy="699" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1402" y="705">state</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1512.1" y="705">char(2)</text>
+    <ellipse style="fill: none; fill-opacity:0; stroke-width: 0.2; stroke: #000000" cx="1398" cy="715" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1402" y="721">zip</text>
+    <text font-size="12.8" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1512.1" y="721">varchar(10)</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1279.8,566 1336.4,566 1336.4,635 1383.26,635 "/>
+    <polygon style="fill: #000000" points="1390.76,635 1380.76,640 1383.26,635 1380.76,630 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1390.76,635 1380.76,640 1383.26,635 1380.76,630 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1283.8" y="562">n</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:end;font-family:monospace;font-style:normal;font-weight:normal" x="1389" y="631">1</text>
+  </g>
+  <g>
+    <polyline style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1310.15,404 1310.15,463 1212.9,463 1212.9,512.264 "/>
+    <polygon style="fill: #000000" points="1212.9,519.764 1207.9,509.764 1212.9,512.264 1217.9,509.764 "/>
+    <polygon style="fill: none; fill-opacity:0; stroke-width: 2; stroke: #000000" points="1212.9,519.764 1207.9,509.764 1212.9,512.264 1217.9,509.764 "/>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1314.15" y="416">1</text>
+    <text font-size="9.59961" style="fill: #000000;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="1216.9" y="518">1</text>
+  </g>
+</svg>
