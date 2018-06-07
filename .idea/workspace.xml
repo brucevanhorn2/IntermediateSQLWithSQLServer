@@ -1,13 +1,125 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ChangeListManager">
+    <list default="true" id="47cee378-7550-4ae4-82dd-58a879db771d" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="CreateTables.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter03/03-02-Genrate-Create-Script/CreateTables.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="546">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Chapter03/03-01-Create-Database/DropAndCreateDatabase.sql" />
+        <option value="$PROJECT_DIR$/Chapter03/03-02-Genrate-Create-Script/CreateTables.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
     <option name="x" value="301" />
     <option name="y" value="493" />
     <option name="width" value="2880" />
     <option name="height" value="1554" />
   </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ExerciseFiles" type="8cb6161f:DatabaseProjectViewPane$1$1" />
+              <item name="ExerciseFiles" type="5b8f4e1:DatabaseProjectViewPane$1$1$1" />
+            </path>
+            <path>
+              <item name="ExerciseFiles" type="8cb6161f:DatabaseProjectViewPane$1$1" />
+              <item name="ExerciseFiles" type="5b8f4e1:DatabaseProjectViewPane$1$1$1" />
+              <item name="Chapter03" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseFiles" type="8cb6161f:DatabaseProjectViewPane$1$1" />
+              <item name="ExerciseFiles" type="5b8f4e1:DatabaseProjectViewPane$1$1$1" />
+              <item name="Chapter03" type="462c0819:PsiDirectoryNode" />
+              <item name="03-01-Create-Database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ExerciseFiles" type="8cb6161f:DatabaseProjectViewPane$1$1" />
+              <item name="ExerciseFiles" type="5b8f4e1:DatabaseProjectViewPane$1$1$1" />
+              <item name="Chapter03" type="462c0819:PsiDirectoryNode" />
+              <item name="03-02-Genrate-Create-Script" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="GoToClass.toSaveIncludeLibraries" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter03/03-01-Create-Database" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="201" y="329" width="1920" height="1036" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973767" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info content_ui="combo" id="Database" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="right" id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Chapter03/03-01-Create-Database/DropAndCreateDatabase.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1659">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter03/03-02-Genrate-Create-Script/CreateTables.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
