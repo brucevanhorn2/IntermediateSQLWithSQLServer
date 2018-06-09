@@ -1,0 +1,14 @@
+{
+  "name": "bonus-02-node-demo-app",
+  "version": "1.0.0",
+  "description": "This is a demo app designed to demonstrate connecting to the database you've been building.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruce Van Horn II",
+  "license": "MIT",
+  "dependencies": {
+    "tedious": "^2.6.1"
+  }
+}
